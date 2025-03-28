@@ -1,0 +1,43 @@
+{
+  "name": "ai-content-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^3.5.2",
+    "@radix-ui/react-slot": "^1.1.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "cookie": "^1.0.2",
+    "lucide-react": "^0.482.0",
+    "next": "15.2.2",
+    "next-auth": "^4.24.11",
+    "openai": "^4.87.3",
+    "react": "^19.0.0",
+    "react-datepicker": "^8.2.1",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "swiper": "^11.2.5",
+    "tailwind-merge": "^3.0.2",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4.0.14",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.14",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5"
+  }
+}
