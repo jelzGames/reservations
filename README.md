@@ -5,7 +5,15 @@ A dynamic and efficient cabin reservation system built with React SSR 19. This w
 
 ## Getting Started
 
+```bash
 npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
 
 run the development server:
 
