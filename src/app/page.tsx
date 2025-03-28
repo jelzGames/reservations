@@ -7,12 +7,12 @@ import Carousel from "@/components/ui/Carousel";
 import ImageZoomPan from "@/components/ui/DropDownImages ";
 
 export default function HomePage() {
-  const [rederCarrusel, setRederCarrusel] = useState(false);
+  const [rederCarrusel, setRederCarrusel] = useState(true);
 
   return (
     <div className="flex flex-col h-screen bg-cover bg-center bg-no-repeat"
       style={{ backgroundImage: "url('/images/it.png')" }}>
-        <ImageZoomPan onChange={setRederCarrusel}/>
+        {/*<ImageZoomPan onChange={setRederCarrusel}/>*/}
         <Carousel render={rederCarrusel}/>
     </div>
   )
