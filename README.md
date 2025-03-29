@@ -1,12 +1,21 @@
-Title:
-Cabin Reservation System - React SSR 19
+## Cabin Reservation System - React SSR 19
 
-Description:
+## Description:
 A dynamic and efficient cabin reservation system built with React SSR 19. This web application allows users to make reservations, and manage bookings.
 
 ## Getting Started
 
-First, run the development server:
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+run the development server:
 
 ```bash
 npm run dev
