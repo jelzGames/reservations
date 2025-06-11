@@ -3,16 +3,8 @@
 ## Description:
 A dynamic and efficient cabin reservation system built with React SSR 19. This web application allows users to make reservations, and manage bookings.
 
-[![Watch the demo](https://img.youtube.com/vi/Wbrw6EPX1W4/0.jpg)](https://www.youtube.com/watch?v=Wbrw6EPX1W4)
 
-![intro](assets/intro.png)
-
-![home](assets/home.png)
-
-![reservation](assets/reservation.png)
-
-![reservations](assets/reservations.png)
-
+[![Watch the demo](https://img.youtube.com/vi/Wbrw6EPX1W4/0.jpg)](https://youtu.be/Ckp6rfgPDYE)
 
 ## Getting Started
 
